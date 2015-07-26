@@ -12,7 +12,7 @@ import java.util.List;
  */
 public class Lesson2Test {
 
-    public static final String PATH = "src/main/resources/lesson2/SonnetI.txt";
+    public static final String PATH = "src/test/resources/lesson2/SonnetI.txt";
     private Lesson2 instance = new Lesson2();
 
 
